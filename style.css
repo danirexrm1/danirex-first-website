@@ -40,7 +40,7 @@ nav a:hover {
    ========================= */
 
 section {
-    background: white;
+    background: yellow;
     max-width: 850px;
     margin: 35px auto;
     padding: 45px 25px;
@@ -55,7 +55,7 @@ section {
 
 h1 {
     font-size: 45px;
-    margin-bottom: 15px;
+    margin-bottom: 12px;
 
     background: linear-gradient(90deg, #2563eb, #9333ea);
     -webkit-background-clip: text;
@@ -168,7 +168,7 @@ footer p {
     }
 
     h2 {
-        font-size: 25px;
+        font-size: 20px;
     }
 
     p {
